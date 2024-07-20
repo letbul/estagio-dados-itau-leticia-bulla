@@ -1,4 +1,4 @@
-# Desafio - Estágio em Dados Itaú
+# Desafio - Ecommerce 
 
 ## Proposta
 Análise de um arquivo CSV contendo dados de um ecommerce disponibilizado no site Kaggle. As tarefas são:
